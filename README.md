@@ -1,6 +1,5 @@
 # Portfolio_Yunhyeok
 
 Access ? 
-https://hedsw.github.io/Portfolio_Yunhyeok/# PersonalWebsite for Jiyeong, Me :) 
-# honeymustard
-# HoneyMustardJYH
+https://hedsw.github.io/Portfolio_Yunhyeok/# 
+PersonalWebsite for Yunhyeok, Me :) 
